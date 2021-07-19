@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eee2eeaf-48ac-48bd-b8f2-c2304531d6d7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lib/screens/details/details_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_Internacionalizacao_i18n" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_bloc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/models/Stretche.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/models/Stretche.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/bottom_navegation/custom_bottom_nav_bar.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/bottom_navegation/custom_bottom_nav_bar.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/home/details/components/color_dots.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/details/components/color_dots.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/home/details/components/custom_app_bar.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/details/components/custom_app_bar.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/home/details/components/product_description.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/details/components/stretche_description.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/home/details/components/product_images.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/details/components/streatche_images.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/home/details/components/top_rounded_container.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/details/components/top_rounded_container.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/home/details/details_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/home/stretche_card.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/home/stretche_card.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/android/app/src/main/java/com/example/bytebank/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/android/app/src/main/kotlin/com/example/fluttergerenciamentoestado/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/android/app/src/main/res/drawable-v21/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/android/app/src/main/res/values-night/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/ios/Runner/AppDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/ios/Runner/AppDelegate.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/ios/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/ios/Runner/main.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/lib/components/botao.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/lib/components/editor.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/lib/models/saldo.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/lib/models/transferencia.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/lib/models/transferencias.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/lib/screens/dashboard/dashboard.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/lib/screens/dashboard/saldo.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/lib/screens/deposito/formulario.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/lib/screens/extrato/item.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/lib/screens/extrato/lista.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/lib/screens/extrato/ultimas.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/lib/screens/transferencia/formulario.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/lib/screens/transferencia/lista.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/web/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/web/icons/Icon-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/web/icons/Icon-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_gerenciamento_estado/web/manifest.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1uzYuT7yNrVHLPyaDEGbyq8CR51" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images/icons" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Casa\Desktop\git\alert_app\assets\images\icons" />
+      <recent name="C:\Users\Casa\Desktop\git\alert_app\assets\images\iconsCategories" />
+      <recent name="C:\Users\Casa\Desktop\git\alert_app\assets\images\navBottomIcons" />
+      <recent name="C:\Users\Casa\Desktop\git\alert_app\lib\bottom_navegation" />
+      <recent name="C:\Users\Casa\Desktop\git\alert_app\assets\images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Casa\Desktop\git\alert_app\assets\images\icons" />
+      <recent name="C:\Users\Casa\Desktop\git\alert_app\lib\screens\home\details\components" />
+      <recent name="C:\Users\Casa\Desktop\git\alert_app\lib\screens\home" />
+      <recent name="C:\Users\Casa\Desktop\git\alert_app\lib\screens" />
+      <recent name="C:\Users\Casa\Desktop\git\alert_app\assets\images\stretches" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eee2eeaf-48ac-48bd-b8f2-c2304531d6d7" name="Default Changelist" comment="" />
+      <created>1625670106384</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625670106384</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="689" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1626220806381">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1625888646344" />
+    <state x="689" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1625676204714" />
+    <state x="689" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/1920.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1626220806381" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1626133513286">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1625764885217" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1626133513286" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1625786790515">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1625786790515" />
+    <state width="1877" height="241" key="GridCell.Tab.0.bottom" timestamp="1626224112314">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1625889149580" />
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1625789816307" />
+    <state width="1877" height="241" key="GridCell.Tab.0.bottom/1920.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1626224112314" />
+    <state width="1877" height="241" key="GridCell.Tab.0.center" timestamp="1626224112314">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1625889149580" />
+    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1625789816307" />
+    <state width="1877" height="241" key="GridCell.Tab.0.center/1920.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1626224112314" />
+    <state width="1877" height="241" key="GridCell.Tab.0.left" timestamp="1626224112314">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1625889149580" />
+    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1625789816306" />
+    <state width="1877" height="241" key="GridCell.Tab.0.left/1920.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1626224112314" />
+    <state width="1877" height="241" key="GridCell.Tab.0.right" timestamp="1626224112314">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1625889149580" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1625789816307" />
+    <state width="1877" height="241" key="GridCell.Tab.0.right/1920.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1626224112314" />
+    <state x="692" y="242" key="RollbackChangesDialog" timestamp="1625674906036">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="692" y="242" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1625674906036" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1625884611596">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1625884611596" />
+    <state x="1136" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1626376308734">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1136" y="346" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1625880857300" />
+    <state x="1136" y="346" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1625844300616" />
+    <state x="1136" y="346" key="com.intellij.ide.util.TipDialog/1920.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1626376308734" />
+    <state x="606" y="135" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1625765076248">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="606" y="135" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1625765076248" />
+    <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1626135101188">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1626135101188" />
+    <state x="1920" y="0" width="1589" height="757" maximized="true" key="dock-window-1" timestamp="1626133133006">
+      <screen x="1920" y="0" width="1600" height="860" />
+    </state>
+    <state x="1920" y="0" width="1589" height="757" maximized="true" key="dock-window-1/1920.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1626133133006" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1626130807932">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/1920.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1626130807932" />
+    <state x="616" y="172" width="672" height="676" key="search.everywhere.popup" timestamp="1626221820882">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="172" width="672" height="676" key="search.everywhere.popup/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1625888461701" />
+    <state x="616" y="172" width="672" height="676" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1625786973594" />
+    <state x="616" y="172" width="672" height="676" key="search.everywhere.popup/1920.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1626221820882" />
+  </component>
+</project>

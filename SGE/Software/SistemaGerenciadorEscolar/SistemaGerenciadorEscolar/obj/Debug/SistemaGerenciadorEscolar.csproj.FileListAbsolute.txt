@@ -1,0 +1,448 @@
+C:\Users\efagu\Desktop\SGE\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\SistemaGerenciadorEscolar.exe.config
+C:\Users\efagu\Desktop\SGE\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\SistemaGerenciadorEscolar.exe
+C:\Users\efagu\Desktop\SGE\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\SistemaGerenciadorEscolar.pdb
+C:\Users\efagu\Desktop\SGE\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\MetroFramework.dll
+C:\Users\efagu\Desktop\SGE\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\efagu\Desktop\SGE\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.csprojResolveAssemblyReference.cache
+C:\Users\efagu\Desktop\SGE\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Login.resources
+C:\Users\efagu\Desktop\SGE\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Properties.Resources.resources
+C:\Users\efagu\Desktop\SGE\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.csproj.GenerateResource.Cache
+C:\Users\efagu\Desktop\SGE\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.exe
+C:\Users\efagu\Desktop\SGE\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.pdb
+C:\Users\efagu\Desktop\SGE\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.SistemaGerenciadorEscolar.resources
+C:\Users\efagu\Desktop\SGE\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Cadastro.resources
+C:\Users\efagu\Desktop\SGE\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Consulta.resources
+C:\Users\efagu\Desktop\SGE\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Professor.resources
+C:\Users\efagu\Desktop\SGE\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Sobre.resources
+C:\Users\efagu\Desktop\SGE\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadAluno.resources
+C:\Users\efagu\Desktop\SGE\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadClasse.resources
+C:\Users\efagu\Desktop\SGE\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadCurso.resources
+C:\Users\efagu\Desktop\SGE\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadDisciplina.resources
+C:\Users\efagu\Desktop\SGE\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadFuncionario.resources
+C:\Users\efagu\Desktop\SGE\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadUsuario.resources
+C:\Users\efagu\Desktop\SGE\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaAluno.resources
+C:\Users\efagu\Desktop\SGE\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaClasse.resources
+C:\Users\efagu\Desktop\SGE\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaCurso.resources
+C:\Users\efagu\Desktop\SGE\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaDisciplina.resources
+C:\Users\efagu\Desktop\SGE\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaFuncionario.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\SistemaGerenciadorEscolar.exe.config
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.exe
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.pdb
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\SistemaGerenciadorEscolar.exe
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\SistemaGerenciadorEscolar.pdb
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\MetroFramework.dll
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.csprojResolveAssemblyReference.cache
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadAluno.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Cadastro.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadClasse.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadCurso.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadDisciplina.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadFuncionario.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadUsuario.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Consulta.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaAluno.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaClasse.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaCurso.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaDisciplina.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaFuncionario.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Login.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Professor.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Properties.Resources.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.SistemaGerenciadorEscolar.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Sobre.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.csproj.GenerateResource.Cache
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Chamada.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Mencao.resources
+C:\Users\efagu\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\SistemaGerenciadorEscolar.exe.config
+C:\Users\efagu\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.exe
+C:\Users\efagu\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.pdb
+C:\Users\efagu\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\SistemaGerenciadorEscolar.exe
+C:\Users\efagu\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\SistemaGerenciadorEscolar.pdb
+C:\Users\efagu\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\MetroFramework.dll
+C:\Users\efagu\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\efagu\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.csprojResolveAssemblyReference.cache
+C:\Users\efagu\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadAluno.resources
+C:\Users\efagu\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Cadastro.resources
+C:\Users\efagu\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadClasse.resources
+C:\Users\efagu\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadCurso.resources
+C:\Users\efagu\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadDisciplina.resources
+C:\Users\efagu\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadFuncionario.resources
+C:\Users\efagu\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadUsuario.resources
+C:\Users\efagu\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Chamada.resources
+C:\Users\efagu\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Consulta.resources
+C:\Users\efagu\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaAluno.resources
+C:\Users\efagu\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaClasse.resources
+C:\Users\efagu\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaCurso.resources
+C:\Users\efagu\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaDisciplina.resources
+C:\Users\efagu\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaFuncionario.resources
+C:\Users\efagu\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Login.resources
+C:\Users\efagu\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Mencao.resources
+C:\Users\efagu\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Professor.resources
+C:\Users\efagu\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Properties.Resources.resources
+C:\Users\efagu\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.SistemaGerenciadorEscolar.resources
+C:\Users\efagu\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Sobre.resources
+C:\Users\efagu\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.csproj.GenerateResource.Cache
+C:\Users\efagu\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.EsqueceuSenha.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.EsqueceuSenha.resources
+C:\Users\3ainfo.BASILIDES\Downloads\SGE\SGE (2)\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\SistemaGerenciadorEscolar.exe.config
+C:\Users\3ainfo.BASILIDES\Downloads\SGE\SGE (2)\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.exe
+C:\Users\3ainfo.BASILIDES\Downloads\SGE\SGE (2)\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.pdb
+C:\Users\3ainfo.BASILIDES\Downloads\SGE\SGE (2)\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\SistemaGerenciadorEscolar.exe
+C:\Users\3ainfo.BASILIDES\Downloads\SGE\SGE (2)\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\SistemaGerenciadorEscolar.pdb
+C:\Users\3ainfo.BASILIDES\Downloads\SGE\SGE (2)\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\MetroFramework.dll
+C:\Users\3ainfo.BASILIDES\Downloads\SGE\SGE (2)\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\3ainfo.BASILIDES\Downloads\SGE\SGE (2)\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.csprojResolveAssemblyReference.cache
+C:\Users\3ainfo.BASILIDES\Downloads\SGE\SGE (2)\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadAluno.resources
+C:\Users\3ainfo.BASILIDES\Downloads\SGE\SGE (2)\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Cadastro.resources
+C:\Users\3ainfo.BASILIDES\Downloads\SGE\SGE (2)\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadClasse.resources
+C:\Users\3ainfo.BASILIDES\Downloads\SGE\SGE (2)\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadCurso.resources
+C:\Users\3ainfo.BASILIDES\Downloads\SGE\SGE (2)\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadDisciplina.resources
+C:\Users\3ainfo.BASILIDES\Downloads\SGE\SGE (2)\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadFuncionario.resources
+C:\Users\3ainfo.BASILIDES\Downloads\SGE\SGE (2)\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadUsuario.resources
+C:\Users\3ainfo.BASILIDES\Downloads\SGE\SGE (2)\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.EsqueceuSenha.resources
+C:\Users\3ainfo.BASILIDES\Downloads\SGE\SGE (2)\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Chamada.resources
+C:\Users\3ainfo.BASILIDES\Downloads\SGE\SGE (2)\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Consulta.resources
+C:\Users\3ainfo.BASILIDES\Downloads\SGE\SGE (2)\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaAluno.resources
+C:\Users\3ainfo.BASILIDES\Downloads\SGE\SGE (2)\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaClasse.resources
+C:\Users\3ainfo.BASILIDES\Downloads\SGE\SGE (2)\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaCurso.resources
+C:\Users\3ainfo.BASILIDES\Downloads\SGE\SGE (2)\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaDisciplina.resources
+C:\Users\3ainfo.BASILIDES\Downloads\SGE\SGE (2)\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaFuncionario.resources
+C:\Users\3ainfo.BASILIDES\Downloads\SGE\SGE (2)\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Login.resources
+C:\Users\3ainfo.BASILIDES\Downloads\SGE\SGE (2)\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Mencao.resources
+C:\Users\3ainfo.BASILIDES\Downloads\SGE\SGE (2)\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Professor.resources
+C:\Users\3ainfo.BASILIDES\Downloads\SGE\SGE (2)\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Properties.Resources.resources
+C:\Users\3ainfo.BASILIDES\Downloads\SGE\SGE (2)\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.SistemaGerenciadorEscolar.resources
+C:\Users\3ainfo.BASILIDES\Downloads\SGE\SGE (2)\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Sobre.resources
+C:\Users\3ainfo.BASILIDES\Downloads\SGE\SGE (2)\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.csproj.GenerateResource.Cache
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\SistemaGerenciadorEscolar.exe.config
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.exe
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.pdb
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\SistemaGerenciadorEscolar.exe
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\SistemaGerenciadorEscolar.pdb
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\MetroFramework.dll
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.csprojResolveAssemblyReference.cache
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadAluno.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Cadastro.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadClasse.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadCurso.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadDisciplina.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadFuncionario.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadUsuario.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.EsqueceuSenha.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Chamada.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Consulta.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaAluno.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaClasse.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaCurso.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaDisciplina.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaFuncionario.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Login.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Mencao.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Professor.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Properties.Resources.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.SistemaGerenciadorEscolar.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Sobre.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.csproj.GenerateResource.Cache
+C:\Users\3ainfo.BASILIDES\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\SistemaGerenciadorEscolar.exe.config
+C:\Users\3ainfo.BASILIDES\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.exe
+C:\Users\3ainfo.BASILIDES\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.pdb
+C:\Users\3ainfo.BASILIDES\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\SistemaGerenciadorEscolar.exe
+C:\Users\3ainfo.BASILIDES\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\SistemaGerenciadorEscolar.pdb
+C:\Users\3ainfo.BASILIDES\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\MetroFramework.dll
+C:\Users\3ainfo.BASILIDES\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\3ainfo.BASILIDES\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.csprojResolveAssemblyReference.cache
+C:\Users\3ainfo.BASILIDES\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadAluno.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Cadastro.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadClasse.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadCurso.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadDisciplina.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadFuncionario.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadUsuario.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.EsqueceuSenha.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Chamada.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Consulta.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaAluno.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaClasse.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaCurso.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaDisciplina.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaFuncionario.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Login.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Mencao.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Professor.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Properties.Resources.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.SistemaGerenciadorEscolar.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Sobre.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.csproj.GenerateResource.Cache
+C:\Users\3ainfo.BASILIDES\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadProfessor.resources
+C:\Users\Casa\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\SistemaGerenciadorEscolar.exe.config
+C:\Users\Casa\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.exe
+C:\Users\Casa\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.pdb
+C:\Users\Casa\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\SistemaGerenciadorEscolar.exe
+C:\Users\Casa\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\SistemaGerenciadorEscolar.pdb
+C:\Users\Casa\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\MetroFramework.dll
+C:\Users\Casa\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Casa\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.csprojResolveAssemblyReference.cache
+C:\Users\Casa\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadAluno.resources
+C:\Users\Casa\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Cadastro.resources
+C:\Users\Casa\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadClasse.resources
+C:\Users\Casa\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadCurso.resources
+C:\Users\Casa\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadDisciplina.resources
+C:\Users\Casa\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadFuncionario.resources
+C:\Users\Casa\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadUsuario.resources
+C:\Users\Casa\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadProfessor.resources
+C:\Users\Casa\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.EsqueceuSenha.resources
+C:\Users\Casa\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Chamada.resources
+C:\Users\Casa\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Consulta.resources
+C:\Users\Casa\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaAluno.resources
+C:\Users\Casa\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaClasse.resources
+C:\Users\Casa\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaCurso.resources
+C:\Users\Casa\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaDisciplina.resources
+C:\Users\Casa\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaFuncionario.resources
+C:\Users\Casa\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Login.resources
+C:\Users\Casa\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Mencao.resources
+C:\Users\Casa\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Professor.resources
+C:\Users\Casa\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Properties.Resources.resources
+C:\Users\Casa\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.SistemaGerenciadorEscolar.resources
+C:\Users\Casa\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Sobre.resources
+C:\Users\Casa\Desktop\SGE Arrumado com Algumas Funcoes\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.csproj.GenerateResource.Cache
+C:\Users\3ainfo.BASILIDES\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\SistemaGerenciadorEscolar.exe.config
+C:\Users\3ainfo.BASILIDES\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\SistemaGerenciadorEscolar.exe
+C:\Users\3ainfo.BASILIDES\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\SistemaGerenciadorEscolar.pdb
+C:\Users\3ainfo.BASILIDES\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\MetroFramework.dll
+C:\Users\3ainfo.BASILIDES\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\3ainfo.BASILIDES\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadAluno.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Cadastro.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadClasse.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadCurso.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadDisciplina.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadFuncionario.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadUsuario.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadProfessor.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Chamada.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Consulta.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaAluno.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaClasse.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaCurso.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaDisciplina.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaFuncionario.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Login.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Mencao.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Professor.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Properties.Resources.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.SistemaGerenciadorEscolar.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Sobre.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.csproj.GenerateResource.Cache
+C:\Users\3ainfo.BASILIDES\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.exe
+C:\Users\3ainfo.BASILIDES\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.pdb
+C:\Users\3ainfo.BASILIDES\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.csprojResolveAssemblyReference.cache
+C:\Users\Casa\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\SistemaGerenciadorEscolar.exe.config
+C:\Users\Casa\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.exe
+C:\Users\Casa\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.pdb
+C:\Users\Casa\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\SistemaGerenciadorEscolar.exe
+C:\Users\Casa\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\SistemaGerenciadorEscolar.pdb
+C:\Users\Casa\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\MetroFramework.dll
+C:\Users\Casa\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Casa\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.csprojResolveAssemblyReference.cache
+C:\Users\Casa\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadAluno.resources
+C:\Users\Casa\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Cadastro.resources
+C:\Users\Casa\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadClasse.resources
+C:\Users\Casa\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadCurso.resources
+C:\Users\Casa\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadDisciplina.resources
+C:\Users\Casa\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadFuncionario.resources
+C:\Users\Casa\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadUsuario.resources
+C:\Users\Casa\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadProfessor.resources
+C:\Users\Casa\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Chamada.resources
+C:\Users\Casa\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Consulta.resources
+C:\Users\Casa\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaAluno.resources
+C:\Users\Casa\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaClasse.resources
+C:\Users\Casa\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaCurso.resources
+C:\Users\Casa\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaDisciplina.resources
+C:\Users\Casa\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaFuncionario.resources
+C:\Users\Casa\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Login.resources
+C:\Users\Casa\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Mencao.resources
+C:\Users\Casa\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Professor.resources
+C:\Users\Casa\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Properties.Resources.resources
+C:\Users\Casa\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.SistemaGerenciadorEscolar.resources
+C:\Users\Casa\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Sobre.resources
+C:\Users\Casa\Desktop\SGE ATUAL SEXTA\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.csproj.GenerateResource.Cache
+C:\Users\Casa\Desktop\SGE ATUAL SABADO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\SistemaGerenciadorEscolar.exe.config
+C:\Users\Casa\Desktop\SGE ATUAL SABADO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.exe
+C:\Users\Casa\Desktop\SGE ATUAL SABADO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.pdb
+C:\Users\Casa\Desktop\SGE ATUAL SABADO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\SistemaGerenciadorEscolar.exe
+C:\Users\Casa\Desktop\SGE ATUAL SABADO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\SistemaGerenciadorEscolar.pdb
+C:\Users\Casa\Desktop\SGE ATUAL SABADO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\MetroFramework.dll
+C:\Users\Casa\Desktop\SGE ATUAL SABADO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Casa\Desktop\SGE ATUAL SABADO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.csprojResolveAssemblyReference.cache
+C:\Users\Casa\Desktop\SGE ATUAL SABADO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadAluno.resources
+C:\Users\Casa\Desktop\SGE ATUAL SABADO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Cadastro.resources
+C:\Users\Casa\Desktop\SGE ATUAL SABADO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadClasse.resources
+C:\Users\Casa\Desktop\SGE ATUAL SABADO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadCurso.resources
+C:\Users\Casa\Desktop\SGE ATUAL SABADO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadDisciplina.resources
+C:\Users\Casa\Desktop\SGE ATUAL SABADO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadFuncionario.resources
+C:\Users\Casa\Desktop\SGE ATUAL SABADO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadUsuario.resources
+C:\Users\Casa\Desktop\SGE ATUAL SABADO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadProfessor.resources
+C:\Users\Casa\Desktop\SGE ATUAL SABADO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Chamada.resources
+C:\Users\Casa\Desktop\SGE ATUAL SABADO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Consulta.resources
+C:\Users\Casa\Desktop\SGE ATUAL SABADO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaAluno.resources
+C:\Users\Casa\Desktop\SGE ATUAL SABADO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaClasse.resources
+C:\Users\Casa\Desktop\SGE ATUAL SABADO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaCurso.resources
+C:\Users\Casa\Desktop\SGE ATUAL SABADO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaDisciplina.resources
+C:\Users\Casa\Desktop\SGE ATUAL SABADO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaFuncionario.resources
+C:\Users\Casa\Desktop\SGE ATUAL SABADO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Login.resources
+C:\Users\Casa\Desktop\SGE ATUAL SABADO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Mencao.resources
+C:\Users\Casa\Desktop\SGE ATUAL SABADO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Professor.resources
+C:\Users\Casa\Desktop\SGE ATUAL SABADO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Properties.Resources.resources
+C:\Users\Casa\Desktop\SGE ATUAL SABADO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.SistemaGerenciadorEscolar.resources
+C:\Users\Casa\Desktop\SGE ATUAL SABADO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Sobre.resources
+C:\Users\Casa\Desktop\SGE ATUAL SABADO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Vincular.Vincular.resources
+C:\Users\Casa\Desktop\SGE ATUAL SABADO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.csproj.GenerateResource.Cache
+C:\Users\Casa\Desktop\SGE ATUAL SABADO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Vincular.Classe_Aluno.resources
+C:\Users\Casa\Desktop\SGE ATUAL SABADO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Vincular.Disciplina_Curso.resources
+C:\Users\Casa\Desktop\SGE ATUAL SABADO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Vincular.Professor_Disc_Curso.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE SABADEIRA BUSCANDO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\SistemaGerenciadorEscolar.exe.config
+C:\Users\3ainfo.BASILIDES\Desktop\SGE SABADEIRA BUSCANDO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.exe
+C:\Users\3ainfo.BASILIDES\Desktop\SGE SABADEIRA BUSCANDO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.pdb
+C:\Users\3ainfo.BASILIDES\Desktop\SGE SABADEIRA BUSCANDO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\SistemaGerenciadorEscolar.exe
+C:\Users\3ainfo.BASILIDES\Desktop\SGE SABADEIRA BUSCANDO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\SistemaGerenciadorEscolar.pdb
+C:\Users\3ainfo.BASILIDES\Desktop\SGE SABADEIRA BUSCANDO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\MetroFramework.dll
+C:\Users\3ainfo.BASILIDES\Desktop\SGE SABADEIRA BUSCANDO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\3ainfo.BASILIDES\Desktop\SGE SABADEIRA BUSCANDO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.csprojResolveAssemblyReference.cache
+C:\Users\3ainfo.BASILIDES\Desktop\SGE SABADEIRA BUSCANDO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadAluno.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE SABADEIRA BUSCANDO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Cadastro.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE SABADEIRA BUSCANDO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadClasse.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE SABADEIRA BUSCANDO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadCurso.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE SABADEIRA BUSCANDO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadDisciplina.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE SABADEIRA BUSCANDO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadFuncionario.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE SABADEIRA BUSCANDO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadUsuario.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE SABADEIRA BUSCANDO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadProfessor.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE SABADEIRA BUSCANDO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Chamada.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE SABADEIRA BUSCANDO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Consulta.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE SABADEIRA BUSCANDO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaAluno.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE SABADEIRA BUSCANDO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaClasse.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE SABADEIRA BUSCANDO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaCurso.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE SABADEIRA BUSCANDO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaDisciplina.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE SABADEIRA BUSCANDO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaFuncionario.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE SABADEIRA BUSCANDO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Login.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE SABADEIRA BUSCANDO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Mencao.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE SABADEIRA BUSCANDO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Professor.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE SABADEIRA BUSCANDO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Properties.Resources.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE SABADEIRA BUSCANDO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.SistemaGerenciadorEscolar.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE SABADEIRA BUSCANDO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Sobre.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE SABADEIRA BUSCANDO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Vincular.Classe_Aluno.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE SABADEIRA BUSCANDO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Vincular.Disciplina_Curso.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE SABADEIRA BUSCANDO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Vincular.Professor_Disc_Curso.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE SABADEIRA BUSCANDO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Vincular.Vincular.resources
+C:\Users\3ainfo.BASILIDES\Desktop\SGE SABADEIRA BUSCANDO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.csproj.GenerateResource.Cache
+C:\Users\3ainfo.BASILIDES\Desktop\SGE SABADEIRA BUSCANDO\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaProfessor.resources
+C:\Users\efagu\Desktop\SGE VERSAO FINAL FANTASY\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\SistemaGerenciadorEscolar.exe.config
+C:\Users\efagu\Desktop\SGE VERSAO FINAL FANTASY\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.exe
+C:\Users\efagu\Desktop\SGE VERSAO FINAL FANTASY\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.pdb
+C:\Users\efagu\Desktop\SGE VERSAO FINAL FANTASY\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\SistemaGerenciadorEscolar.exe
+C:\Users\efagu\Desktop\SGE VERSAO FINAL FANTASY\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\SistemaGerenciadorEscolar.pdb
+C:\Users\efagu\Desktop\SGE VERSAO FINAL FANTASY\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\MetroFramework.dll
+C:\Users\efagu\Desktop\SGE VERSAO FINAL FANTASY\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\efagu\Desktop\SGE VERSAO FINAL FANTASY\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.csprojResolveAssemblyReference.cache
+C:\Users\efagu\Desktop\SGE VERSAO FINAL FANTASY\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadAluno.resources
+C:\Users\efagu\Desktop\SGE VERSAO FINAL FANTASY\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Cadastro.resources
+C:\Users\efagu\Desktop\SGE VERSAO FINAL FANTASY\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadClasse.resources
+C:\Users\efagu\Desktop\SGE VERSAO FINAL FANTASY\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadCurso.resources
+C:\Users\efagu\Desktop\SGE VERSAO FINAL FANTASY\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadDisciplina.resources
+C:\Users\efagu\Desktop\SGE VERSAO FINAL FANTASY\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadFuncionario.resources
+C:\Users\efagu\Desktop\SGE VERSAO FINAL FANTASY\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadUsuario.resources
+C:\Users\efagu\Desktop\SGE VERSAO FINAL FANTASY\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadProfessor.resources
+C:\Users\efagu\Desktop\SGE VERSAO FINAL FANTASY\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaProfessor.resources
+C:\Users\efagu\Desktop\SGE VERSAO FINAL FANTASY\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Chamada.resources
+C:\Users\efagu\Desktop\SGE VERSAO FINAL FANTASY\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Consulta.resources
+C:\Users\efagu\Desktop\SGE VERSAO FINAL FANTASY\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaAluno.resources
+C:\Users\efagu\Desktop\SGE VERSAO FINAL FANTASY\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaClasse.resources
+C:\Users\efagu\Desktop\SGE VERSAO FINAL FANTASY\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaCurso.resources
+C:\Users\efagu\Desktop\SGE VERSAO FINAL FANTASY\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaDisciplina.resources
+C:\Users\efagu\Desktop\SGE VERSAO FINAL FANTASY\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaFuncionario.resources
+C:\Users\efagu\Desktop\SGE VERSAO FINAL FANTASY\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Login.resources
+C:\Users\efagu\Desktop\SGE VERSAO FINAL FANTASY\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Mencao.resources
+C:\Users\efagu\Desktop\SGE VERSAO FINAL FANTASY\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Professor.resources
+C:\Users\efagu\Desktop\SGE VERSAO FINAL FANTASY\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Properties.Resources.resources
+C:\Users\efagu\Desktop\SGE VERSAO FINAL FANTASY\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.SistemaGerenciadorEscolar.resources
+C:\Users\efagu\Desktop\SGE VERSAO FINAL FANTASY\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Sobre.resources
+C:\Users\efagu\Desktop\SGE VERSAO FINAL FANTASY\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Vincular.Classe_Aluno.resources
+C:\Users\efagu\Desktop\SGE VERSAO FINAL FANTASY\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Vincular.Disciplina_Curso.resources
+C:\Users\efagu\Desktop\SGE VERSAO FINAL FANTASY\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Vincular.Professor_Disc_Curso.resources
+C:\Users\efagu\Desktop\SGE VERSAO FINAL FANTASY\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Vincular.Vincular.resources
+C:\Users\efagu\Desktop\SGE VERSAO FINAL FANTASY\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.csproj.GenerateResource.Cache
+C:\Users\efagu\Desktop\SGE VERSAO FINAL FANTASY\SGE\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Splash.Splash.resources
+C:\Users\Casa\Desktop\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\SistemaGerenciadorEscolar.exe.config
+C:\Users\Casa\Desktop\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.exe
+C:\Users\Casa\Desktop\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.pdb
+C:\Users\Casa\Desktop\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\SistemaGerenciadorEscolar.exe
+C:\Users\Casa\Desktop\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\SistemaGerenciadorEscolar.pdb
+C:\Users\Casa\Desktop\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\MetroFramework.dll
+C:\Users\Casa\Desktop\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Casa\Desktop\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.csprojResolveAssemblyReference.cache
+C:\Users\Casa\Desktop\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadAluno.resources
+C:\Users\Casa\Desktop\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Cadastro.resources
+C:\Users\Casa\Desktop\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadClasse.resources
+C:\Users\Casa\Desktop\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadCurso.resources
+C:\Users\Casa\Desktop\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadDisciplina.resources
+C:\Users\Casa\Desktop\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadFuncionario.resources
+C:\Users\Casa\Desktop\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadUsuario.resources
+C:\Users\Casa\Desktop\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadProfessor.resources
+C:\Users\Casa\Desktop\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaProfessor.resources
+C:\Users\Casa\Desktop\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Chamada.resources
+C:\Users\Casa\Desktop\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Consulta.resources
+C:\Users\Casa\Desktop\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaAluno.resources
+C:\Users\Casa\Desktop\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaClasse.resources
+C:\Users\Casa\Desktop\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaCurso.resources
+C:\Users\Casa\Desktop\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaDisciplina.resources
+C:\Users\Casa\Desktop\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaFuncionario.resources
+C:\Users\Casa\Desktop\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Login.resources
+C:\Users\Casa\Desktop\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Mencao.resources
+C:\Users\Casa\Desktop\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Professor.resources
+C:\Users\Casa\Desktop\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Properties.Resources.resources
+C:\Users\Casa\Desktop\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.SistemaGerenciadorEscolar.resources
+C:\Users\Casa\Desktop\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Sobre.resources
+C:\Users\Casa\Desktop\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Splash.Splash.resources
+C:\Users\Casa\Desktop\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Vincular.Classe_Aluno.resources
+C:\Users\Casa\Desktop\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Vincular.Disciplina_Curso.resources
+C:\Users\Casa\Desktop\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Vincular.Professor_Disc_Curso.resources
+C:\Users\Casa\Desktop\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Vincular.Vincular.resources
+C:\Users\Casa\Desktop\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.csproj.GenerateResource.Cache
+C:\Users\Casa\Downloads\SGE 2.0 Versão final (completo)\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\SistemaGerenciadorEscolar.exe.config
+C:\Users\Casa\Downloads\SGE 2.0 Versão final (completo)\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\SistemaGerenciadorEscolar.exe
+C:\Users\Casa\Downloads\SGE 2.0 Versão final (completo)\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\SistemaGerenciadorEscolar.pdb
+C:\Users\Casa\Downloads\SGE 2.0 Versão final (completo)\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\MetroFramework.dll
+C:\Users\Casa\Downloads\SGE 2.0 Versão final (completo)\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Casa\Downloads\SGE 2.0 Versão final (completo)\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.csprojAssemblyReference.cache
+C:\Users\Casa\Downloads\SGE 2.0 Versão final (completo)\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadAluno.resources
+C:\Users\Casa\Downloads\SGE 2.0 Versão final (completo)\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Cadastro.resources
+C:\Users\Casa\Downloads\SGE 2.0 Versão final (completo)\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadClasse.resources
+C:\Users\Casa\Downloads\SGE 2.0 Versão final (completo)\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadCurso.resources
+C:\Users\Casa\Downloads\SGE 2.0 Versão final (completo)\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadDisciplina.resources
+C:\Users\Casa\Downloads\SGE 2.0 Versão final (completo)\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadFuncionario.resources
+C:\Users\Casa\Downloads\SGE 2.0 Versão final (completo)\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadUsuario.resources
+C:\Users\Casa\Downloads\SGE 2.0 Versão final (completo)\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.cadProfessor.resources
+C:\Users\Casa\Downloads\SGE 2.0 Versão final (completo)\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaProfessor.resources
+C:\Users\Casa\Downloads\SGE 2.0 Versão final (completo)\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Chamada.resources
+C:\Users\Casa\Downloads\SGE 2.0 Versão final (completo)\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Consulta.resources
+C:\Users\Casa\Downloads\SGE 2.0 Versão final (completo)\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaAluno.resources
+C:\Users\Casa\Downloads\SGE 2.0 Versão final (completo)\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaClasse.resources
+C:\Users\Casa\Downloads\SGE 2.0 Versão final (completo)\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaCurso.resources
+C:\Users\Casa\Downloads\SGE 2.0 Versão final (completo)\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaDisciplina.resources
+C:\Users\Casa\Downloads\SGE 2.0 Versão final (completo)\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.ConsultaFuncionario.resources
+C:\Users\Casa\Downloads\SGE 2.0 Versão final (completo)\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Login.resources
+C:\Users\Casa\Downloads\SGE 2.0 Versão final (completo)\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Mencao.resources
+C:\Users\Casa\Downloads\SGE 2.0 Versão final (completo)\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Professor.resources
+C:\Users\Casa\Downloads\SGE 2.0 Versão final (completo)\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Properties.Resources.resources
+C:\Users\Casa\Downloads\SGE 2.0 Versão final (completo)\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.SistemaGerenciadorEscolar.resources
+C:\Users\Casa\Downloads\SGE 2.0 Versão final (completo)\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Sobre.resources
+C:\Users\Casa\Downloads\SGE 2.0 Versão final (completo)\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Splash.Splash.resources
+C:\Users\Casa\Downloads\SGE 2.0 Versão final (completo)\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Vincular.Classe_Aluno.resources
+C:\Users\Casa\Downloads\SGE 2.0 Versão final (completo)\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Vincular.Disciplina_Curso.resources
+C:\Users\Casa\Downloads\SGE 2.0 Versão final (completo)\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Vincular.Professor_Disc_Curso.resources
+C:\Users\Casa\Downloads\SGE 2.0 Versão final (completo)\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.Vincular.Vincular.resources
+C:\Users\Casa\Downloads\SGE 2.0 Versão final (completo)\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.csproj.GenerateResource.cache
+C:\Users\Casa\Downloads\SGE 2.0 Versão final (completo)\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.csproj.CoreCompileInputs.cache
+C:\Users\Casa\Downloads\SGE 2.0 Versão final (completo)\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.csproj.CopyComplete
+C:\Users\Casa\Downloads\SGE 2.0 Versão final (completo)\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.exe
+C:\Users\Casa\Downloads\SGE 2.0 Versão final (completo)\SGE PADRÃO + TELA SPLASH\SGE\Software\SistemaGerenciadorEscolar\SistemaGerenciadorEscolar\obj\Debug\SistemaGerenciadorEscolar.pdb

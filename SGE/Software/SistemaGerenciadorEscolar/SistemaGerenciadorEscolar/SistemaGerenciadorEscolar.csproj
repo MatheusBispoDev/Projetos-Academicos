@@ -1,0 +1,367 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{924167FB-3AA6-4904-8D35-4F17DF0A045D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SistemaGerenciadorEscolar</RootNamespace>
+    <AssemblyName>SistemaGerenciadorEscolar</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MetroFramework, Version=1.2.0.3, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\MetroFramework.RunTime.1.2.0.3\lib\net40-Client\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design">
+      <HintPath>..\packages\MetroFramework.Design.1.2.0.3\lib\net40\MetroFramework.Design.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.2.0.3, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\MetroFramework.Fonts.1.2.0.3\lib\net40\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cadastro\cadAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastro\cadAluno.Designer.cs">
+      <DependentUpon>cadAluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastro\Cadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastro\Cadastro.Designer.cs">
+      <DependentUpon>Cadastro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastro\cadClasse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastro\cadClasse.Designer.cs">
+      <DependentUpon>cadClasse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastro\cadCurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastro\cadCurso.Designer.cs">
+      <DependentUpon>cadCurso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastro\cadDisciplina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastro\cadDisciplina.Designer.cs">
+      <DependentUpon>cadDisciplina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastro\cadFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastro\cadFuncionario.Designer.cs">
+      <DependentUpon>cadFuncionario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastro\cadUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastro\cadUsuario.Designer.cs">
+      <DependentUpon>cadUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastro\cadProfessor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastro\cadProfessor.Designer.cs">
+      <DependentUpon>cadProfessor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Camadas\DAO\AlunoDAO.cs" />
+    <Compile Include="Camadas\DAO\ClasseDao.cs" />
+    <Compile Include="Camadas\DAO\Classe_AlunoDAO.cs" />
+    <Compile Include="Camadas\DAO\CursoDAO.cs" />
+    <Compile Include="Camadas\DAO\DisciplinaDAO.cs" />
+    <Compile Include="Camadas\DAO\Disc_CursoDAO.cs" />
+    <Compile Include="Camadas\DAO\FuncionarioDAO.cs" />
+    <Compile Include="Camadas\DAO\ProfessorDAO.cs" />
+    <Compile Include="Camadas\DAO\Prof_Disc_CursoDAO.cs" />
+    <Compile Include="Camadas\DAO\UsuarioDAO.cs" />
+    <Compile Include="Camadas\DTO\AlunoDTO.cs" />
+    <Compile Include="Camadas\DTO\ClasseDTO.cs" />
+    <Compile Include="Camadas\DTO\Classe_AlunoDTO.cs" />
+    <Compile Include="Camadas\DTO\CursoDTO.cs" />
+    <Compile Include="Camadas\DTO\DisciplinaDTO.cs" />
+    <Compile Include="Camadas\DTO\Disc_CursoDTO.cs" />
+    <Compile Include="Camadas\DTO\FuncionarioDTO.cs" />
+    <Compile Include="Camadas\DTO\ProfessorDTO.cs" />
+    <Compile Include="Camadas\DTO\Prof_Disc_CursoDTO.cs" />
+    <Compile Include="Camadas\DTO\UsuarioDTO.cs" />
+    <Compile Include="Camadas\Model\AlunoModel.cs" />
+    <Compile Include="Camadas\Model\ClasseModel.cs" />
+    <Compile Include="Camadas\Model\Classe_AlunoModel.cs" />
+    <Compile Include="Camadas\Model\CursoModel.cs" />
+    <Compile Include="Camadas\Model\DisciplinaModel.cs" />
+    <Compile Include="Camadas\Model\Disc_CursoModel.cs" />
+    <Compile Include="Camadas\Model\FuncionarioModel.cs" />
+    <Compile Include="Camadas\Model\ProfessorModel.cs" />
+    <Compile Include="Camadas\Model\Prof_Disc_CursoModel.cs" />
+    <Compile Include="Camadas\Model\UsuarioModel.cs" />
+    <Compile Include="Consulta\ConsultaProfessor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulta\ConsultaProfessor.Designer.cs">
+      <DependentUpon>ConsultaProfessor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Professor\Chamada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Professor\Chamada.Designer.cs">
+      <DependentUpon>Chamada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consulta\ConsultaAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulta\ConsultaAluno.Designer.cs">
+      <DependentUpon>ConsultaAluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consulta\ConsultaClasse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulta\ConsultaClasse.Designer.cs">
+      <DependentUpon>ConsultaClasse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consulta\ConsultaCurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulta\ConsultaCurso.Designer.cs">
+      <DependentUpon>ConsultaCurso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consulta\ConsultaDisciplina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulta\ConsultaDisciplina.Designer.cs">
+      <DependentUpon>ConsultaDisciplina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consulta\ConsultaFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulta\ConsultaFuncionario.Designer.cs">
+      <DependentUpon>ConsultaFuncionario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consulta\Consulta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulta\Consulta.Designer.cs">
+      <DependentUpon>Consulta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Professor\Mencao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Professor\Mencao.Designer.cs">
+      <DependentUpon>Mencao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Professor\Professor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Professor\Professor.Designer.cs">
+      <DependentUpon>Professor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SGE\SistemaGerenciadorEscolar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SGE\SistemaGerenciadorEscolar.Designer.cs">
+      <DependentUpon>SistemaGerenciadorEscolar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sobre\Sobre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sobre\Sobre.Designer.cs">
+      <DependentUpon>Sobre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Splash\Splash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Splash\Splash.Designer.cs">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vincular\Classe_Aluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vincular\Classe_Aluno.Designer.cs">
+      <DependentUpon>Classe_Aluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vincular\Disciplina_Curso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vincular\Disciplina_Curso.Designer.cs">
+      <DependentUpon>Disciplina_Curso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vincular\Professor_Disc_Curso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vincular\Professor_Disc_Curso.Designer.cs">
+      <DependentUpon>Professor_Disc_Curso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vincular\Vincular.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vincular\Vincular.Designer.cs">
+      <DependentUpon>Vincular.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Cadastro\cadAluno.resx">
+      <DependentUpon>cadAluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastro\Cadastro.resx">
+      <DependentUpon>Cadastro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastro\cadClasse.resx">
+      <DependentUpon>cadClasse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastro\cadCurso.resx">
+      <DependentUpon>cadCurso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastro\cadDisciplina.resx">
+      <DependentUpon>cadDisciplina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastro\cadFuncionario.resx">
+      <DependentUpon>cadFuncionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastro\cadUsuario.resx">
+      <DependentUpon>cadUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastro\cadProfessor.resx">
+      <DependentUpon>cadProfessor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consulta\ConsultaProfessor.resx">
+      <DependentUpon>ConsultaProfessor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Professor\Chamada.resx">
+      <DependentUpon>Chamada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consulta\Consulta.resx">
+      <DependentUpon>Consulta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consulta\ConsultaAluno.resx">
+      <DependentUpon>ConsultaAluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consulta\ConsultaClasse.resx">
+      <DependentUpon>ConsultaClasse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consulta\ConsultaCurso.resx">
+      <DependentUpon>ConsultaCurso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consulta\ConsultaDisciplina.resx">
+      <DependentUpon>ConsultaDisciplina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consulta\ConsultaFuncionario.resx">
+      <DependentUpon>ConsultaFuncionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Professor\Mencao.resx">
+      <DependentUpon>Mencao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Professor\Professor.resx">
+      <DependentUpon>Professor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SGE\SistemaGerenciadorEscolar.resx">
+      <DependentUpon>SistemaGerenciadorEscolar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sobre\Sobre.resx">
+      <DependentUpon>Sobre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Splash\Splash.resx">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vincular\Classe_Aluno.resx">
+      <DependentUpon>Classe_Aluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vincular\Disciplina_Curso.resx">
+      <DependentUpon>Disciplina_Curso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vincular\Professor_Disc_Curso.resx">
+      <DependentUpon>Professor_Disc_Curso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vincular\Vincular.resx">
+      <DependentUpon>Vincular.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Config\packages.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Config\App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="MetroFramework.txt" />
+    <Content Include="MetroFramework\MetroFramework.txt" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
